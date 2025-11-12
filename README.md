@@ -6,6 +6,7 @@ Aplicativo simples desenvolvido como parte das atividades das disciplinas **Prog
 
 ## Estrutura do Projeto:
 
+```
 com.fatec.mediageral
 │
 ├── Aluno.kt # Data class que representa o aluno e realiza o cálculo da média
@@ -15,3 +16,4 @@ com.fatec.mediageral
 │ └── Tela.kt # Tela principal com os campos de notas, botão e exibição de resultado
 │
 └── MainActivity.kt # Ponto de entrada da aplicação, importa e exibe o composable Tela()
+```
